@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGODB_ATLAS_USERNAME": "virgiangalang",
+    "MONGODB_ATLAS_PASSWORD": "qwerty281199",
+    "MONGODB_ATLAS_DBNAME": "database"
+  }
+}
+
